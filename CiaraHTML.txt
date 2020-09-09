@@ -7,3 +7,11 @@
 	a Software Engineer on Sky's grad programme</p>
 	<a href = "www.dkfkjdbkjwd.com">Here is a link</a>
 </div>
+
+<div>
+	<p>This is my second paragraph on my hobbies</p>
+</div>
+
+</head>
+
+End of text 
